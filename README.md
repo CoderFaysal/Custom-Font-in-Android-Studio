@@ -29,4 +29,4 @@ textView.setTypeface(typeface);
 
 
 
-_@All Right Reserverd by Innovative Programmer ❤️_
+_© All Right Reserverd by Innovative Programmer ❤️_
